@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: weixintest
+server:
+  port: 1000
+#logging:
+#  pattern:
+#    console: "%d - %msg%n"
+#  file: e:/sell.log
+#  level:
+#    com.weixin.learning: debug
